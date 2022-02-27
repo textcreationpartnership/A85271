@@ -1,0 +1,564 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Colonell Fiennes his reply to a pamphlet entitvled, An answer to Colonell Nathaniel Fiennes relation concerning his surrender of the city and castle of Bristol by Clem. Walker which said answer is here reprinted verbatim.  Ordered to be printed.</title>
+            <author>Fiennes, Nathaniel, 1607 or 8-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85271</idno>
+            <idno type="STC">Wing F877</idno>
+            <idno type="STC">Thomason E70_1</idno>
+            <idno type="STC">ESTC R5094</idno>
+            <idno type="EEBO-CITATION">99872793</idno>
+            <idno type="PROQUEST">99872793</idno>
+            <idno type="VID">125239</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85271)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125239)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E70[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Colonell Fiennes his reply to a pamphlet entitvled, An answer to Colonell Nathaniel Fiennes relation concerning his surrender of the city and castle of Bristol by Clem. Walker which said answer is here reprinted verbatim.  Ordered to be printed.</title>
+                  <author>Fiennes, Nathaniel, 1607 or 8-1669.</author>
+                  <author>Walker, Clement, 1595-1651.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Vnderhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walker, Clement, 1595-1651. --  Answer to C. Nathaniel Fiennes relation concerning his surrender of the city and castle of Bristol.</term>
+               <term>Bristol (England) --  History --  Siege, 1643.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125239:1" rendition="simple:additions"/>
+            <pb facs="tcp:125239:1" rendition="simple:additions"/>
+            <p>COLONELL <hi>FIENNES</hi> His REPLY to a Pamphlet ENTITVLED, AN ANSWER TO Colonell <hi>Nathaniel Fiennes</hi> RELATION concerning his Surrender of the City and Ca<g ref="char:EOLhyphen"/>ſtle of <hi>Briſtol</hi> by <hi>Clem. Walker.</hi>
+            </p>
+            <p>
+               <hi>Which ſaid Anſwer is here Reprinted verbatim.</hi>
+            </p>
+            <p>Ordered to be Printed.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Vnderhill,</hi> 1643.</p>
+         </div>
+         <div type="author__Fiennes_to_the_reader">
+            <pb n="2" facs="tcp:125239:2"/>
+            <head>The Epistle to the Reader.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving taken notice of a printed Pam<g ref="char:EOLhyphen"/>phlet (ſo the Authour himſelfe calleth it) ſet forth in anſwer to a Relation which I made in the Houſe of Com<g ref="char:EOLhyphen"/>mons, concerning my ſurrender of the Caſtle and City of <hi>Briſtol</hi> (which hath long walked in the darke, and now at length is peeped out, when the Authour might have an ex<g ref="char:EOLhyphen"/>cuſe to ſay, that his witneſſes that ſhould juſtifie it are gone away with Sir <hi>William Waller.</hi>) I earneſtly deſired the Houſe that this buſineſſe of <hi>Briſtol</hi> might be heard at a Councell of Warre, whereupon it was ordered accordingly, I having for<g ref="char:EOLhyphen"/>merly deſired the ſame of my L. Generall, who granted my requeſt, but it could not be done till ſuch time as his Army returned to a ſetled Quarter, but now I hope upon the return of his Excellency, the Order of the Houſe of Commons, and a Petition of my ſelfe, and moſt of my chiefe Officers to that purpoſe, this matter ſhall be ſhortly heard at a Councell of Warr, and therfore ſhall content my ſelf with a few Margi<g ref="char:EOLhyphen"/>nall Notes, in anſwer to that lying Pamphlet, referring the full tryall of the truth to a Councell of Warre, till when, I doubt not but every wiſe man will ſuſpend his judgement, and then he ſhall clearly ſee who hath bin the lyar, and who hath bin the Coward.</p>
+            <closer>
+               <signed>Nath: Fiennes.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Sabbati</hi> 25<hi rend="sup">o</hi>. <hi>September,</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>IT is this day Ordered by the Commons aſſembled in Parliament, That it be left to my L. Generall (at the Requeſt and deſire of Col<g ref="char:EOLhyphen"/>lonell <hi>Fiennes</hi>) to heare and examine the buſines concerning the Sur<g ref="char:EOLhyphen"/>render of <hi>Briſtoll.</hi>
+            </p>
+            <closer>
+               <signed>H. Elſyng. Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="rebuttal_of_Walkers_preface">
+               <pb n="3" facs="tcp:125239:2"/>
+               <head>
+                  <hi>Mr</hi> Walkers <hi>Epiſtle to the Reader.</hi>
+               </head>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Reader,</salute>
+                     </opener>
+                     <p>
+                        <seg rend="decorInit">T</seg>Hough this Anſwer cost but few houres to compoſe it, yet was it a worke of ſome dayes to collect the materialls thereof out of the ſeverall Reports of many principall Gentlemen and Commanders preſent in <hi>Briſtol,</hi> when it was beſieged; And when this Pamphlet was ready for the Preſſe, I found the Preſse obstructed, whereby I was enforced to keepe it in a moneth be<g ref="char:EOLhyphen"/>fore I could be delivered of this Birth, <hi>Some malicious</hi> Iuno <hi>ſitting croſſe legged at the labour.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+               <p>This is a lye, if meant of Col. <hi>Fiennes</hi> or any of his friends to his knovv<g ref="char:EOLhyphen"/>ledge.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <p>This is the reaſon it commeth out ſo late after the Relation, that it may ſeeme to rub over an old ſore, whoſe ſmart is almoſt paſt. But Truth is a ſluggard that uſes to lie long in bed, after her baſe ſiſter Falſe<g ref="char:EOLhyphen"/>hood is up and stirring: Yet when Truth riſeth, with her ſober conſtant pace, ſhe will ſoone overtake Falſhood, and tread on her heeles. Reader, it is in thy diſcretion that Truth loſe not her grace for want of novelty. Although ſhe come forth with this further diſadvantage, that almost all thoſe Gentlemen and Commanders that ſhould wait upon her juſtification, are going out of Towne with Sir <hi>William Waller,</hi> yet let Truth be wel<g ref="char:EOLhyphen"/>come without attendants, without ornaments, it being one of her moſt naturall ornaments to be ſtarke naked.</p>
+                     <closer>
+                        <signed>
+                           <hi>Thine,</hi> Cle. Walker.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </div>
+            <div type="rebuttal_of_Walkers_pamphlet">
+               <pb n="4" facs="tcp:125239:3"/>
+               <head>An Anſwer to Col. <hi>Nathaniel Fiennes</hi> Relation concerning his Surrender of the City and Caſtle of <hi>Briſtol.</hi> With Col. <hi>Fiennes</hi> his Reply to the ſaid Pamphlet.</head>
+               <q>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">S</seg>Ince the heart of man is deceitfull above all things, and none can know the iſſues thereof, wee will not ſearch over-curiouſly into the deſires of the late Governour of that unhappy City of</hi> BRISTOL, <hi>Colonell</hi> NATHANIEL FIENNES, <hi>Whether he affected the Government or no? Yet ſeeing it is a point controverted by himſelfe, in his Relation,</hi> pag. 3. <hi>we will be bold to ſay,</hi>
+                  </p>
+                  <p>FIrſt, <hi>His undermining</hi> Col. <hi>Thomas Eſſex,</hi> whom hee ſtruck in<g ref="char:EOLhyphen"/>to the box, and laid himſelf in his roome: In this manner Colo<g ref="char:EOLhyphen"/>nell <hi>Fiennes</hi> brought a letter to <hi>Briſtol,</hi> from my Lord Generall, authorizing him to ſeize on,
+and ſend up priſoner Colonell <hi>Eſſex,</hi> then Governour of that City, and this was ſo under-hand carried, that the Deputy-Lieutenants and Committee of Parliament, then reſident in <hi>Briſtol,</hi> to aſſiſt Colonell <hi>Eſſex</hi> in the Government, were never conſulted with to know what cauſe of ſuſpition they found in him: <hi>This was an affront put upon the Deputy-Lieutenants in point of integrity, or diſcretion and induſtry.</hi>
+                  </p>
+               </q>
+               <p>A lie and ſcandall caſt upon my Lo. Generall and his Order.</p>
+               <q>
+                  <p>Secondly, His putting Creatures of his own <hi>(neither Souldiers, nor men knowne in thoſe parts)</hi> into <hi>Briſtol</hi> Caſtle, to make the go<g ref="char:EOLhyphen"/>vernment more intirely his own,
+<hi>contrary to the deſires both of the Towne and Countrey,</hi> which were to have a Gentleman of honour and integrity, ſuch as both the Towne and Country could confide in, placed there.</p>
+               </q>
+               <p>Two Lye.</p>
+               <q>
+                  <p>Thirdly, <hi>His many artifices, to leſſen the Reputation and abridge the power of the Committees and Gentlemen of the Country</hi> (whereof more afterward.)</p>
+               </q>
+               <p>A Lye.</p>
+               <q>
+                  <p>Fourthly, His underhand indeavours to draw a Territory of
+<pb n="5" facs="tcp:125239:3"/>twenty miles compaſſe as annexed to that City, to be within his <hi>ſole</hi> command, and to make it independent upon the reſt of the ad<g ref="char:EOLhyphen"/>jacent counties, thereby to exclude Sir <hi>W. Waller</hi> and all others.</p>
+               </q>
+               <p>A Lye.</p>
+               <q>
+                  <p>Theſe conſiderations (we ſay) make us think he was as jealous of his Government there, as any man is of his wife, and that he would brooke no rivall therein; nor can his letters ſent to his Father overſway our beliefe; Father, and ſonne being <hi>Teſtes Do<g ref="char:EOLhyphen"/>mestici,</hi> in the neereſt degree; But to take off this conceit (in his fourth page) he tells us he made certaine Propoſitions to the Gen<g ref="char:EOLhyphen"/>tlemen of the adjacent Counties for the ſetling and maintaining a Garriſon there, to which moſt of the Gentlemen conſented; It is anſwered, he made a certaine Propoſition in generall to that pur<g ref="char:EOLhyphen"/>poſe, to the Gentlemen of <hi>Somerſet</hi> and <hi>Gloucester,</hi> and the Letter dated the 20 of <hi>March,</hi> 1642. (publiſhed in the Governours Re<g ref="char:EOLhyphen"/>lation, page 13.) was ſent to the Lord <hi>Say,</hi> and the like to his Ex<g ref="char:EOLhyphen"/>cellency the Lord Generall, to ſee how the ſaid generall Propoſiti<g ref="char:EOLhyphen"/>on would take: But when the ſaid Gentlemen expected to be againe adviſed withall for reducing the ſaid generall into particu<g ref="char:EOLhyphen"/>lar Propoſitions, he having got the ſtart of them,
+
+<hi>ſecretly ſent up particulars of his owne framing,</hi> (the ſame (it may be) which he hath publiſhed in his Relation, page 17. intituled, <hi>A draught of the Ordinance</hi>) whereby he indeavoured to weaken the power of the Deputy-Lieutenants and Committees, and to make <hi>Briſtol,</hi> and the Countries adjacent for 20 miles compaſſe his Territory, himſelfe in all matters of moment, being of the <hi>Quorum:</hi>
+                  </p>
+               </q>
+               <p>A Lye, As ſhall be proved under his own hand, and the hands of divers Gentlemen both of <hi>Somerſet</hi> and <hi>Glocesterſhire.</hi>
+               </p>
+               <q>
+                  <p>For ex<g ref="char:EOLhyphen"/>ample, in his ſaid draught of the Ordinance, he projected, that</p>
+                  <p>Firſt, the Garriſon which ſhould have conſiſted of 3 Foot Re<g ref="char:EOLhyphen"/>giments (beſides Horſe) (whereof one to be raiſed in the County of <hi>Somerſet,</hi> under the command of Colonell <hi>Alexander Popham,</hi> another in the County of <hi>Glouceſter</hi>) ſhould be raiſed by the Go<g ref="char:EOLhyphen"/>vernour onely.</p>
+                  <p>Secondly, the money raiſed in the <hi>Eaſterne-Diviſion</hi> of <hi>Somer<g ref="char:EOLhyphen"/>ſet,</hi> in <hi>Barkely-Diviſion</hi> in <hi>Glouceſter,</hi> and in the Cities of <hi>Briſtoll</hi> and <hi>Bath,</hi> upon the weekely Aſſeſſment, Twentieth part and Se<g ref="char:EOLhyphen"/>queſtration; nay and upon Exciſes and new Impoſts, ſhould be aſſigned <hi>only</hi> for the uſe of that Garriſon,</p>
+               </q>
+               <p>A Lye, If there was a ſurpliſſage it was to goe to other uſes.</p>
+               <q>
+                  <p>with further proviſion in the Ordinance, that if all this be not enough, it ſhould be made up out of the ſaid Counties reſpectively: and the Committees
+<pb n="6" facs="tcp:125239:4"/>appointed to pay the charges of the ſaid Garriſon and fortificati<g ref="char:EOLhyphen"/>ons being valued and made known to them by the ſaid Governour of <hi>Briſtoll,</hi> whoſe Warrant and Receipt ſhould bee a ſufficient diſcharge.</p>
+                  <p>Thirdly, The Treaſurers of the ſaid <hi>Diviſions</hi> not to iſſue out <hi>any</hi> moneyes without the concurring warrant of Col: <hi>Fiennes</hi> Governour.</p>
+               </q>
+               <p>A lye, Only ſuch monies at were to be employed upon the Garri<g ref="char:EOLhyphen"/>ſon and Fortifi<g ref="char:EOLhyphen"/>cations of <hi>Bristol.</hi>
+               </p>
+               <q>
+                  <p>Fourthly, The Trained-Bands and Voluntiers of the ſaid <hi>Divi<g ref="char:EOLhyphen"/>ſions</hi> not to be drawne forth upon ſervice, either into the City of <hi>Briſtol</hi> or Country, but by the like warrant.</p>
+                  <p>See now what power was left to the ſaid Committees or Deputy Lieutenants even in their own Counties, and over their own men and moneyes, upon which Colonell <hi>Fiennes</hi> had not incroached in this his draught of an Ordinance; Again page 4. he complaines that Sir <hi>William Waller</hi> drew forth Colonell <hi>Eſſex</hi> Regiment, and all the Troopes of Horſe:
+we conceive Sir <hi>William Waller</hi> drew forth <hi>only Col:</hi> Eſſex <hi>his Troope of Red Coates,</hi> being not above 30 or 40 and his foot Regiment being incompleate, <hi>the one halfe whereof never marched out of Towne, and were entertained by the Governour ſtill:</hi> page 5. </p>
+               </q>
+               <p>3 Lyes, 1 Captain <hi>Longes</hi> and Cap<g ref="char:EOLhyphen"/>tain <hi>Coxes</hi> Troops were drawn out, and Major <hi>Lau<g ref="char:EOLhyphen"/>griſhes</hi> alſo com<g ref="char:EOLhyphen"/>manded out.</p>
+               <q>when Sir <hi>Ralph Hoptons</hi> Army drew towards <hi>Somerſetſhire:</hi> Colonell <hi>Alexander Popham</hi> moved by letters from my Lord Generall, would have gone forth with his whole Regiment, to joyne with <hi>Wilts</hi> and <hi>Dorſet,</hi> and the We<g ref="char:EOLhyphen"/>ſterne forces of <hi>Somerſetſhire,</hi> but was Countermanded by Colonell <hi>Fiennes,</hi>
+who then firſt produced a letter from my Lord Generall, whereby Colonell <hi>Popham</hi> and his Regiment were reduced un<g ref="char:EOLhyphen"/>der his command, which letter untill then he had concealed and <hi>would not ſuffer Col:</hi> Popham <hi>to march with above ſix Compa<g ref="char:EOLhyphen"/>nies:</hi>
+               </q>
+               <p>Sir <hi>William Wal<g ref="char:EOLhyphen"/>ler</hi> told Col: <hi>Fien<g ref="char:EOLhyphen"/>nes</hi> before Col: <hi>Popham,</hi> that he deſired only 6 Companies.</p>
+               <q>It is true that Col: <hi>Popham</hi> was rented <hi>through the default of Major</hi> Langriſh <hi>and his horſe;</hi>
+               </q>
+               <p>2 Lyes, <hi>Langriſh</hi> was cleered by a Counſell of War at <hi>Bathe.</hi>
+               </p>
+               <q>but the foot Armes were <hi>not above halfe loſt;</hi> In anſwer to his 1200 men, lent Sir <hi>William Waller,</hi> It is confeſſed, we all importuned him to enable Sir <hi>William Waller</hi> by an addition of 1200 foot, to take the field for preſerva<g ref="char:EOLhyphen"/>tion of the Country (which is no more then Col: <hi>Fiennes</hi> in his propoſitions to my Lord Generall and Parliament undertook, namely, * <hi>to defend the Country for</hi> 20 <hi>miles adjoyning</hi>)</q>
+               <p>* Not againſt an Armie, though he had received the benefit of thoſe propoſitions, which he never did, and that was one maine cauſe of the loſſe of the Towne.</p>
+               <q>And Col: <hi>Fiennes</hi> himſelf when he gave conſent to this motion, <hi>did declare that if the fortune of the Field went againſt Sir</hi> William Waller,
+<pb n="7" facs="tcp:125239:4"/>
+                  <hi>yet with his forces remaining in the Towne;
+and the men which would be recollected and rallied out of his defeated Companies, hee made no doubt, but to make good the ſaid City: And Col:</hi> Fiennes <hi>after the defeate of Sir</hi> William Waller <hi>did declare that hee hoped to make good the Towne with</hi> 2500 <hi>men,</hi> and that he hoped to make up that number, by arming thoſe men, that fled from the defeate into the Towne, and by taking Armes from the Towneſmen, and put<g ref="char:EOLhyphen"/>ting them into other hands, page 6.</q>
+               <p>2 Lyes, He never declared any ſuch thing.</p>
+               <q>Sir <hi>Arthur Hazelrigg,</hi> Co<g ref="char:EOLhyphen"/>lonell <hi>Burghill,</hi> and divers gentlemen after Sir <hi>William Wallers</hi> de<g ref="char:EOLhyphen"/>feate, thought fit to withdraw themſelves: theſe Gentlemen <hi>did not leave the Towne upon apprehenſion it was not Tenable,</hi>
+               </q>
+               <p>It ſhall be proved that ſome did it upon that ground.</p>
+               <q>but out of a deſire <hi>to raiſe men elſe where to ſupply it,</hi>
+               </q>
+               <p>A lye, They went to fetch ſupplies round about by the Lands end.</p>
+               <q>and out of a con<g ref="char:EOLhyphen"/>ſideration it was not fit for them in time of warre to ſtay under his command, <hi>who in time of peace had plundered ſome of them</hi> for not paying ſuch taxes as he put upon the City of <hi>Briſtoll,</hi> not with<g ref="char:EOLhyphen"/>ſtanding they paid in the Country, and reſided in Towne only to doe publike ſervice, upon their own purſes:
+and for lodging in the Caſtle it is confidently affirmed, that no lodgings there were ever offered to any of the Gentlemen, nor any former reſpects ſhewed to them, could incourage them to hope for any, and ſo many meane fellowes of the Town were ſuffered to ſhelter them<g ref="char:EOLhyphen"/>ſelves and their goods there, that there was no roome left for the Gentlemen, <hi>inſomuch that when Colonell</hi> Stephens <hi>with his wife and family retreated into the Castle,</hi>
+they could not endure their bad en<g ref="char:EOLhyphen"/>tertainement, and the Princes Trumpeter (then a priſoner) had better lodging then he and his whole family, whereupon he retur<g ref="char:EOLhyphen"/>ned into the Town againe. Page 6.</q>
+               <p>Col: <hi>Steevens</hi> ne<g ref="char:EOLhyphen"/>ver acquainted Col: <hi>Fiennes,</hi> and his brother affir<g ref="char:EOLhyphen"/>meth that he bid him take his choice of any roome in the Ca<g ref="char:EOLhyphen"/>ſtle.</p>
+               <q>He tells us he had but 700 men left in the Towne, and never a penny of money to pay them: Col: <hi>Fiennes</hi> had left in the Towne <hi>halfe his owne foot Regiment, halfe Col:</hi> Pophams <hi>Regi<g ref="char:EOLhyphen"/>ment,</hi> the new begun, though not yet compleat Regiment of his brother <hi>Iohn Fiennes,</hi> being about 300 or 400 men, <hi>beſides</hi> 300 <hi>or</hi> 400 <hi>foot remaining of Sir</hi> William Wallers, <hi>and</hi> 1000 <hi>or</hi> 1200 <hi>foot</hi> he newly (by his own confeſſion) raiſed and Armed in the Town, ſo that he had neere upon 2500 foot, beſides his Regiment of horſe, and his Company of dragoons, which is the number he un<g ref="char:EOLhyphen"/>dertook to keep the Town with as aforeſaid,</q>
+               <p>3 Lyes: There were only 3 Companies of Col: <hi>Fiennes</hi> his Regiment, not a man of Col: <hi>Po<g ref="char:EOLhyphen"/>phams,</hi> and the 300 or 400 remai<g ref="char:EOLhyphen"/>ning of Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Wallers</hi> were part of the 1000. If M. <hi>Walker</hi> that was a <hi>Sommerſer<g ref="char:EOLhyphen"/>ſetſhire</hi> Gentle<g ref="char:EOLhyphen"/>man, and con<g ref="char:EOLhyphen"/>ſtantly reſided in the Town before, had not moſt va<g ref="char:EOLhyphen"/>liantly runne out of the Town when the enemy came before it.</p>
+               <q>and many more men he might have had, <hi>if hee had not as aforeſaid ſo much leſſened the</hi>
+                  <pb n="8" facs="tcp:125239:5"/>Reputation of the Committees in the Country, that they, who by their Warrant had called in neere upon a thouſand men in <hi>Februa<g ref="char:EOLhyphen"/>ry</hi> laſt, when Prince <hi>Rupert</hi> was before the Towne, could not now call in a hundred, <hi>ſo much was the Countrey diſtaſted with taking free Quarter,
+Horſes, diſorderly plundering even from the beſt affe<g ref="char:EOLhyphen"/>cted, and all theſe abuſes,</hi>
+               </q>
+               <p>A baſe lye all a<g ref="char:EOLhyphen"/>long.</p>
+               <q>
+                  <hi>with many more, were imputed by the Countrey people unto the Committee and Deputy-Lieutenants re<g ref="char:EOLhyphen"/>ſident in</hi> Briſtoll, <hi>becauſe being in place they did not redreſſe them, although it were not in their power ſo to doe, being over-voted at the Councell of Warre, by Captaines purpoſely choſen and new made by the Governour,</hi> that he might have the ſole power and countenance of that Councell to ſerve his ends, <hi>and being likewiſe overborne by the Governours acceſſe of power gotten from time to time by Commiſſions and Letters under hand from the Lord Generall, or the Parliament,</hi> which he kept ſleeping by him, never ſhewing his additionall authority but upon ſpeciall occaſion, and then ſo curſorily and privately, as did eaſily declare he meant not to have his authority ſo well underſtood, as to draw it in danger to be examined and limited;</q>
+               <p>A baſe lye, and ſcandalous to the Parliament and my L. Generall.</p>
+               <q>
+                  <p>
+                     <hi>Hereupon the Gentry forbore to inter<g ref="char:EOLhyphen"/>meddle with affaires, and the whole Towne and Countrey Were filled with jealouſies and indignations;</hi> and where he affirmes he had not one penny of money to pay his ſouldiers: This cauſeth admiration in all men, who have obſerved <hi>what ſtrange and unheard of wayes were uſed, and what number of ſpunges and horſe<g ref="char:EOLhyphen"/>leeches were continually imployed to ſuck both from the Towne and Countrey,</hi>
+ſome devices to raiſe monies we will ſet downe, all is impoſſible.</p>
+                  <p n="1">1. A tax of 500 l. or 600. pound a week upon the Town, which was afterwards drawn down to a far leſſe ſumme, <hi>we know not up<g ref="char:EOLhyphen"/>on what conſideration, ſince it is apparent the Towne was able to beare a far heavier burthen.</hi>
+                  </p>
+               </q>
+               <p>But he would beare no part of it himſelfe. He doth not at all ſeeme to deny it in that Letter, and this tax was laved and disbur<g ref="char:EOLhyphen"/>ced by the De<g ref="char:EOLhyphen"/>puty-Lieutenants themſelves, not a penny of it came to Col: <hi>Fiennes</hi> his hands, not of that of the twen<g ref="char:EOLhyphen"/>tieth part, he ne<g ref="char:EOLhyphen"/>ver received any within 20 miles, or within halfe a mile.</p>
+               <q>
+                  <p n="2">2. A tax upon <hi>Somerſet</hi> and <hi>Gloceſterſhires</hi> towards the fortify<g ref="char:EOLhyphen"/>ing of ſo much of <hi>Briſtol</hi> as ſtood in theſe Counties, yet this Rela<g ref="char:EOLhyphen"/>tor concealeth, and in his Letter the 17 of June, <hi>ſeemes to deny</hi> that he had any ſpeciall levy for his worke, both from the Towne and Countrey.</p>
+                  <p n="3">3. The weekely aſſeſſment, and the 20 parts within his verge of 20 miles, which though they were not duely raſed, amounted to
+<pb n="9" facs="tcp:125239:5"/>a conſiderable ſumme, if an accompt had bin kept thereof.</p>
+                  <p n="4">4. The plundering of S. <hi>Thomas Bridges,</hi> S. <hi>Maurice Berckley,</hi>
+and many other mens eſtates in the Countrey, without any warrant from the Councell of Warre, or the Deputy-Lieutenants, contrary to an expreſſe Order made by the ſaid Councell, all which were carried into the Caſtle without account;</p>
+               </q>
+               <p>A Lye.</p>
+               <q>And when complaints were made for undue plundring, they were never heard by a Coun<g ref="char:EOLhyphen"/>cell of Warre, but privately referred to <hi>Langriſh</hi> or his equals, and the complainants juſt requeſt choaked with delayes, as in Miſtris <hi>Millers</hi> caſe and others.</q>
+               <p>A Lye.</p>
+               <q>
+                  <p n="5">5. The letting and ſetting,
+or the ſtocking with plundred Cat<g ref="char:EOLhyphen"/>tle, the ſaid Delinquents and other mens eſtates, and ſequeſtring their Rents with account, and without the concurrence or privity of the Deputy-Lieutenants.</p>
+                  <p n="6">6. The conſiſcated eſtates of the Conſpirators in <hi>Briſtol,</hi> and the ſecret compoſitions made with many of them, are thought to be very conſiderable, <hi rend="sup">a</hi> 
+                     <hi>the rather, becauſe when it was move d, that all compoſitions might be made openly at a full Councell, and entered into the Councell booke, it would not be hearkened unto:</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>a</hi> A Lye. All theſe ſhall be proved to be Lyes at a Cou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>cell of Warre.</p>
+               <q>
+                  <p>Yet Colonell <hi>Fiennes</hi> in his Letter to his Father, dated June 17. 1643. (ſee Re<g ref="char:EOLhyphen"/>lation, <hi>pag.</hi> 25.) ſaith, he ſhall never make 3000. l. of the Conſpira<g ref="char:EOLhyphen"/>tors eſtates: It may be he meant upon compoſitions beſides their plunder, which he could ſet no probable value upon.</p>
+                  <p n="7">7. Divers loanes upon the publike faith to a great value, eſtima<g ref="char:EOLhyphen"/>ted
+<hi rend="sup">b</hi> at 7000. l.</p>
+               </q>
+               <p>
+                  <hi>b</hi> A Lye by 6500.</p>
+               <q>
+                  <p n="8">8. Divers ſupplies from Parliament, which were alwaies
+<hi rend="sup">c</hi> 
+                     <hi>con<g ref="char:EOLhyphen"/>cealed from the Committee;</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>c</hi> What had the Committee of <hi>So<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>merſetſhiere</hi> to do with it.</p>
+               <q>
+                  <p>he had received 4000. l. before the 12. of May, 1643. by his own confeſſion, (Relation <hi>p.</hi> 23.) and we heare he hath received at the leaſt 3000. l. or 4000. l. ſince, <hi>quaere</hi> whether he hath received any mony from Sir <hi>Gilbert Gerrard?</hi>
+                  </p>
+                  <p n="9">9. Licences to trade with the Enemy <hi>(
+<hi rend="sup">d</hi>
+even contrary to his Ex<g ref="char:EOLhyphen"/>cellencies Ordinances of Warre) not granted for nothing.</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>d</hi> A baſe Lye.</p>
+               <q>
+                  <p n="10">10. <hi rend="sup">e</hi> 
+                     <hi>Cuſtome mony</hi> 1700. l.</p>
+               </q>
+               <p>
+                  <hi>e</hi> Another Lye. Col: <hi>Fiennes</hi> hath received together with the 1700. l. of cuſtome mony, in all 6688, and ſhall give a very good account of that, and all other re<g ref="char:EOLhyphen"/>ceits that this Pa<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>phletter or any other can charge him withall.</p>
+               <q>
+                  <p n="11">11. If we may believe common fame, many Tradeſmen (with whom we formerly told you the Caſtle was cumbred)
+<hi rend="sup">f</hi>
+                     <hi>were drawne to give</hi> 10. l. <hi>a man,</hi> to have themſelves and their goods ſecured there,</p>
+               </q>
+               <p>
+                  <hi>f</hi> Another Lye.</p>
+               <q>
+                  <hi rend="sup">g</hi> 
+                  <hi>and yet no ſufficient caution is made in the Articles of Surrender,</hi>
+               </q>
+               <p>
+                  <hi>g</hi> The 9th Article of the agreement was framed pur<g ref="char:EOLhyphen"/>poſely for it.</p>
+               <q>
+                  <p>to reſtore the ſaid goods to them againe, many of
+<pb n="10" facs="tcp:125239:6"/>them not being to be found, and the poor men are put to compound with the enemy for getting them out, as formerly they did with their friends to get them in; Beſides, whereas his horſe were to have 2. s. 6. d. a day pay, Colonell <hi>Fiennes</hi> gave them free quarter in the Country, and but 1. s. the day pay;
+<hi rend="sup">g</hi>
+                     <hi>quaere what became of the reſt.</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>g</hi> It was diſcoun<g ref="char:EOLhyphen"/>ted to the State, as may appeare by the Captains ac<g ref="char:EOLhyphen"/>cou<g ref="char:cmbAbbrStroke">̄</g>ts given in be<g ref="char:EOLhyphen"/>fore this Pamphlet came forth.</p>
+               <q>
+                  <p>This we ſet downe to ſhew <hi>how good an Oecononiſt our Go<g ref="char:EOLhyphen"/>vernour was,</hi> and how able to raiſe mony, having ſo rich a ſhop as the Towne of Briſtoll to worke in;
+<hi rend="sup">h</hi>
+                     <hi>certainly, it was very poſſible f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r ſuch a thriving Governour to maintaine the Garriſon out of ſo rich a Towne,</hi> without the aſſiſtance of the adjacent Counties, (contrary to his tenet, <hi>page</hi> 4.)</p>
+               </q>
+               <p>
+                  <hi>h</hi> How doth this agree with what was ſaid before of the many and un<g ref="char:EOLhyphen"/>heard of devices to get mony? How many pounds or pence did his Go<g ref="char:EOLhyphen"/>vernour Col: <hi>Eſſex</hi> to whom he was aſſiſtant raiſe out of that rich City.</p>
+               <q>
+                  <hi>and this we demonſtrate by the pre<g ref="char:EOLhyphen"/>ſent practiſe of the Kings Forces,</hi> who make that Towne, not on<g ref="char:EOLhyphen"/>ly maintaine their whole Garriſon, but man forth and maintaine a good ſleete of Ships, find Gunpowder, and pay a great fine beſides.</q>
+               <p>If Co. <hi>Fiennes</hi> had been a Comm an<g ref="char:EOLhyphen"/>der of the Kings Forces, or that the Parliament world let their officers doe what they do, he could have rai<g ref="char:EOLhyphen"/>ſed as much mo<g ref="char:EOLhyphen"/>ney as they, and yet ſure this de<g ref="char:EOLhyphen"/>monſtrator is mi<g ref="char:EOLhyphen"/>ſtaken in the hy<g ref="char:EOLhyphen"/>potheſis of his de<g ref="char:EOLhyphen"/>monſtration</p>
+               <q>And for the better underſtanding of this money buſineſſe, know that Colonell <hi>Pophams</hi> Regiment of Foot, and Colonell <hi>Coles</hi> Regiment of horſe and Dragoones, reſident in Towne, were not paid by the Governour, but by the Country; and the Governours whole charge eſtimated by himſelfe, (in a Letter to his Father dated June 17. 1643. and printed with his Relation, <hi>pag.</hi> 23.) was betweene a 1000. l. 1200. l. and 1300. l. a weeke, reckoning as we conceive his weekly disburſment for fortifying, which was none of his charge.) And for the 15. Regiments of foot and 12. Regi<g ref="char:EOLhyphen"/>ments of horſe, wherewith the Relator (<hi>pag.</hi> 6.) ſaith, the enemy beſieged the Towne; <hi>It is confidently affirmed they were not halfe Regiments, and that many of their Colours were no other then ſuch as the enemy had taken from Sir</hi> William Waller, and were now ſet up like ſcar-Crowes, or penall ſtatutes againſt Recuſants <hi>in terrorem</hi> only:</q>
+               <p>Let Souldiers judg of their number that ſaw them.</p>
+               <q> But he relateth (<hi>pag.</hi> 7.) that there was one place where the workes were not perfect, the ditch not made on the outſide, nor the foot-banck on the inſide, where was but a weake guard,
+*
+<hi>This ſeemeth ſtrange to thoſe that knew how much money was raiſed to perfect the workes, how long time was ſpent in per<g ref="char:EOLhyphen"/>fecting,</hi> and how <hi>ſuddainly</hi> ſo ſmall a <hi>defect would have beene re<g ref="char:EOLhyphen"/>medied, unleſſe it had beene purpoſely left as a poſterne for the ene<g ref="char:EOLhyphen"/>my;</hi>
+               </q>
+               <p>* A baſe ſuppoſi<g ref="char:EOLhyphen"/>tion, as if he that would have be trayed the Town, would firſt have killed ſo many of their men and of<g ref="char:EOLhyphen"/>ficers of quality, in teſtimony of his correſpondency with them. All theſe particulars ſhall be fully clea<g ref="char:EOLhyphen"/>red at a Councell of Warre.</p>
+               <q>and that there ſhould be but a weak guard left in the weakeſt place, and Major <hi>Langriſh</hi> with his Troopes of horſe left there to
+<pb n="11" facs="tcp:125239:6"/>
+ſecond the Foot, ſoundeth not well;
+<hi rend="sup">i</hi>
+                  <hi>Had the ſeverall complaints formerly made to the Governour againſt</hi> Langriſh <hi>for his cowar<g ref="char:EOLhyphen"/>diſe</hi> at <hi>Wells, Muncton Forly, Landſdowne,</hi> and the <hi>Deviſes,</hi>
+               </q>
+               <p>
+                  <hi>i</hi> For the buſineſſe of <hi>Welles Langriſh</hi> was not only clea<g ref="char:EOLhyphen"/>red at a Councell of Warre, but alſo commended. At <hi>Muncton Forly</hi> he was not preſent, being ſent to <hi>Bri<g ref="char:EOLhyphen"/>stol</hi> by S. <hi>W. Wal<g ref="char:EOLhyphen"/>ler,</hi> and in the o<g ref="char:EOLhyphen"/>ther a places he ra<g ref="char:cmbAbbrStroke">̄</g> away no other<g ref="char:EOLhyphen"/>wiſe then Sir <hi>W. Waller,</hi> and all the reſt did.</p>
+               <q>or <hi>the preſent advice of Col.</hi> Stephens, <hi>Lieutenant Col.</hi> Clifton, <hi>and many others been heard,</hi> he had not beene ſet there to betray the truſt re<g ref="char:EOLhyphen"/>poſed in him now:</q>
+               <p>A Lye. Co. <hi>Stephe<g ref="char:cmbAbbrStroke">̄</g>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and L. Col. <hi>Cliſton</hi> gave no ſuch ad<g ref="char:EOLhyphen"/>vice.</p>
+               <q>wherefore we muſt ſet <hi>Langriſhes</hi> faults up<g ref="char:EOLhyphen"/>on Col. <hi>Fiennes</hi> ſcore. But it ſtood not with the Governours con<g ref="char:EOLhyphen"/>veniency to heare any complaints againſt ſo
+<hi rend="sup">k</hi>
+                  <hi>profitable an inſtru<g ref="char:EOLhyphen"/>ment, he knew much,</hi> and <hi>could diſcover much,</hi> Delicta fuere ne<g ref="char:EOLhyphen"/>xus amicitiae, (<hi>p.</hi> 8.)</q>
+               <p>
+                  <hi>k</hi> A baſe &amp; grou<g ref="char:cmbAbbrStroke">̄</g>d<g ref="char:EOLhyphen"/>leſſe ſlander.</p>
+               <q>the Relator continues his Hiſtory of the ene<g ref="char:EOLhyphen"/>mies entering the Line of communication which proved the loſſe of the Towne. To avoid interruption we will ſet downe the counter-relation, according to the information received from
+<hi rend="sup">l</hi>
+                  <hi>di<g ref="char:EOLhyphen"/>vers Gentlemen of quality, commanding in that ſervice.</hi>
+               </q>
+               <p>
+                  <hi>l</hi> But nameleſſe.</p>
+               <q>When the enemies firſt viewed the Towne, <hi>a great Officer of that Army</hi> declared his opinion, that he thought it not fit to be attempted, alledging it was <hi>no where aſſaultable,</hi> but in the <hi>hollow way,</hi> be<g ref="char:EOLhyphen"/>tweene <hi>Brandon</hi> hill Fort, and Windmill hill Fort, (the onely place where the enemy afterwards found entrance upon an aſ<g ref="char:EOLhyphen"/>ſault given) the works being imperfect, and a weak guard kept there, as aboveſaid, by the Relators owne confeſſion, (page 7.) It was much the place moſt obnoxious ſhould be leaſt regarded, yet ſo it happened, and upon the firſt entrance
+<hi rend="sup">m</hi>
+                  <hi>for an houre toge<g ref="char:EOLhyphen"/>ther, there were not above</hi> 100. <hi>of the enemies, within the Line,</hi>
+               </q>
+               <p>
+                  <hi>m</hi> A Lye</p>
+               <q>the foe was ſo wary in ſeconding thoſe that entered, that he gave them for loſt
+<hi rend="sup">n</hi>
+                  <hi>And thoſe that entered afterwards as ſeconds were but ſuch ſcattered ſouldiers as had been beaten off elſewhere from the Workes,</hi> betweene Wind mill hill Fort and <hi>Pegor</hi> hill Fort:</q>
+               <p>
+                  <hi>n</hi> How doth this agree with the for<g ref="char:EOLhyphen"/>mer clauſe that the enemy ſhould fal on with ſo few men in the maine place intended for the aſſault.</p>
+               <q>How eaſily might any man but <hi>Langriſh</hi> have done good ſervice there? as appeares by the good ſervice done by Captain Lieutenant <hi>Nevill</hi> (whom for honours ſake I name, ſee the Relation, page 8.) who had but 40. horſe, and yet if he had been ſeconded by ſome Muſ<g ref="char:EOLhyphen"/>ketiers, he had cut off all that were then entered, and for about
+<hi rend="sup">o</hi>
+2. <hi>houres more, there were not above</hi> 300. <hi>of the Enemies entered,</hi> (ſo unapt they were to beleeve ſo unexpected a good fortune)</q>
+               <p>
+                  <hi>o</hi> A Lye.</p>
+               <q>
+                  <hi rend="sup">p</hi>
+                  <hi>But the Governour preſently upon the firſt entrance of the aſſaylants, ſent his Lieutenant Col:</hi> to call his ſouldiers off from the Line,</q>
+               <p>
+                  <hi>p</hi> A Lye as ſhall be made to appeare at a Councell of Warre.</p>
+               <q>who af<g ref="char:EOLhyphen"/>firmed that if our ſouldiers did not ſpeedily retreat, they would be
+<pb n="12" facs="tcp:125239:7"/>all cut-off:
+<hi rend="sup">q</hi>
+                  <hi>Lieutenant Col.</hi> Daviſon <hi>with other Officers, earnest<g ref="char:EOLhyphen"/>ly adviſing that a ſally might be made out of the Towne upon them,</hi>
+               </q>
+               <p>
+                  <hi>q</hi> A Lye Lieuten. Col: <hi>Daviſon</hi> gave no ſuch adviſe to the Governeur, was not called off his guard till the enemy was poſſeſ<g ref="char:EOLhyphen"/>ſed of all thoſe places, was not out in the ſally, as almoſt all the reſt of the held Offi<g ref="char:EOLhyphen"/>cers were.</p>
+               <q>and that the
+<hi rend="sup">r</hi>
+                  <hi>Souldiers yet remaining at the line, might keepe it,</hi> and fall upon the reare of them, which he could not obtaine untill 3. houres after the aſſaylants had entred the line, when it was too late, and the Enemy had poſſeſſed himſelf of <hi>Eſſex fort,</hi> the <hi>Redlodge</hi> Sir <hi>Fardinando Gorges</hi> houſe, and the <hi>Colledge Tower,</hi> places of advantage in the Suburbes,</q>
+               <p>
+                  <hi>r</hi> Whence ſhould the Governour have had the ſoul<g ref="char:EOLhyphen"/>diers to have ſalli<g ref="char:EOLhyphen"/>ed out with, if he had not called the<g ref="char:cmbAbbrStroke">̄</g> off the line, out of the ſupplies thoſe Gentlemen ſhould have ſent him that went about by the lands end</p>
+               <q>Major <hi>Lewes</hi> (an old Souldier) was of the ſame mind with <hi>Daviſon,</hi> and being at the Line, would not quit it in an houre and half, although he received many commands to that purpoſe: At laſt his ſouldiers taking notice they were com<g ref="char:EOLhyphen"/>manded away, and <hi>Lewes</hi> receiving a command in writing under the Governours own hand to retire into the Town
+<hi rend="sup">ſ</hi>
+                  <hi>under paine of hanging,</hi> he obeyed:</q>
+               <p>
+                  <hi>ſ</hi> He deſerved to be hanged if he had not come off as at a Councell of Warre ſhall be made to appeare.</p>
+               <q>
+                  <p>After the ſally unſeaſonably made, and bea<g ref="char:EOLhyphen"/>ten back again, ſpoken of, (<hi>pag.</hi> 8.) the aſſailants poſſeſſed the Sub<g ref="char:EOLhyphen"/>urbs as far as <hi>Froome</hi> gate,
+<hi rend="sup">t</hi>
+                     <hi>yet was there no danger of the enemies wa<g ref="char:EOLhyphen"/>ding over at the Key, the depth of the mud and diſadvantagious landing places, would have made them lyable to great execution, even by ſtones and clubs,</hi> wherin the Townſmen would not have been back<g ref="char:EOLhyphen"/>wards.</p>
+               </q>
+               <p>
+                  <hi>t</hi> How did our own ſouldiers run over without ſticking in the mud.</p>
+               <q>
+                  <p>The Defendants both Townſmen and Souldiers were diſheart<g ref="char:EOLhyphen"/>ned and diſpleaſed at their retreat from the Line, into the Town, and to adde more diſcouragement to thom, the Governour inſtead of making his laſt retreat into the Caſtle, according to his firſt re<g ref="char:EOLhyphen"/>ſolution, neglected to make ſo much as a ſhew of further defence, but preſently reſolved upon a Treaty with the enemy; whether he called his owne creatures, his officers to ioyne with him in this reſolution, is uncertaine; But the Committee and Gentlemen of the Country (who had moſt to loſe there) <hi>viz.</hi>
+                     <hi rend="sup">u</hi>
+Sir <hi>John Horner,</hi> Maſter <hi>Stephens, his ſonne the Colonell, and divers other Officers doe deny he ever put the queſtion to them, whether they would treat or no?</hi>
+                  </p>
+               </q>
+               <p>
+                  <hi>u</hi> A groſſe Lye, moſt, if not all the Gentlemen were there, the queſtion was put to them, and no man diſſen<g ref="char:EOLhyphen"/>ted.</p>
+               <q>But after he had ſent a Drum to the enemy for a Trea<g ref="char:EOLhyphen"/>ty, and gave <hi>Langriſh</hi> and Captaine <hi>Thomas Hippeſly</hi> for Hoſtages, he then called the Gentlemen to Counſell, to know what Articles he ſhould propound in their behalfe. This Treaty ſlackned all mens courages, and made them lay by all thought of ſaving them<g ref="char:EOLhyphen"/>ſelves, by fight, but by Treaty only.
+<hi rend="sup">x</hi>
+                  <hi>Now, and not till now,</hi> (what<g ref="char:EOLhyphen"/>ſoever the Relator ſaith, <hi>pag.</hi> 8.) the Souldiers began to drop from
+<pb n="13" facs="tcp:125239:7"/>their Coulours and Guards, and many of them ran to the Enemy,</q>
+               <p>
+                  <hi>x</hi> Another groſſe Lye, of 1200, 12. foote could not he get to their co<g ref="char:EOLhyphen"/>lours, before any Treaty was thought on or ſpo<g ref="char:EOLhyphen"/>ken off.</p>
+               <q>and diſcovered the amazedneſſe and diſorders of the Defendants: <hi>Had the Governour retreated to the Caſtle, and ſet a good face upon the matter,</hi> it would have bettered his conditions, both for the good of his Souldiers and Townſ-men, who were ſo far from a de<g ref="char:EOLhyphen"/>ſigne to fall upon the Garriſon, that they had ſhewed great love in victualling the ſouldiers, and great courage in fighting for them.</q>
+               <p>Is that to ſet a good face upon the matter, to run and hide his head in a Caſtle whilſt hundreds of his Souldiers and friends were but<g ref="char:EOLhyphen"/>chering in the Town.</p>
+               <q>We will not argue how tenable the Town and Caſtle, or the Ca<g ref="char:EOLhyphen"/>ſtle, after the Town loſt, was, but certainly the Governour and all his Councell (untill that very moment) thought it tenable: otherwiſe to what purpoſe ſerved, <hi>Firſt,</hi> his great coſt in fortify<g ref="char:EOLhyphen"/>ing, continued to that day? <hi>Secondly,</hi> his victualling the Caſtle? <hi>Thirdly,</hi>
+his deſire to Sir <hi>William Waller</hi> to withdraw with his Horſe, for feare of cunſuming his proviſions, prooved by the teſti<g ref="char:EOLhyphen"/>mony of <hi>Col:</hi> Cooke, <hi>whom Col:</hi> Fiennes <hi>imployed to carry a Meſſage to that purpoſe,</hi> and by a writing under Col: <hi>Fiennes</hi> hand herewith printed;</q>
+               <p>A Lye. All thoſe particu<g ref="char:EOLhyphen"/>lars ſhall be an<g ref="char:EOLhyphen"/>ſwered at a Cou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>cell of War, how all this may be reconciled.</p>
+               <q>And how could Sir <hi>Wil: Waller</hi> make ſuch haſt to <hi>Exeter</hi> or to <hi>Gloceſter,</hi> as to raiſe forces to reſcue Col: <hi>Fiennes</hi> that was ſo haſty as to deliver up the Towne and Caſtle in three or foure dayes to the enemy? <hi>Fourthly,</hi> his former reſolution at <hi>a councell of Warre</hi> was, if they were beaten from the Line, to fire the Suburbs and retreat into the Town and at laſt to fire the Town and retreat into the Caſtle, to which purpoſe <hi>Orders were given out;</hi>
+               </q>
+               <p>At what Coun<g ref="char:EOLhyphen"/>cell of War? Who gave out thoſe orders?</p>
+               <q>and yet when we conſider <hi>how he had peſtered the Caſtle with unneceſſary people,</hi> and thereby diſabled himſelfe to draw in his Souldiers to keep it, we cannot but conclude his reſolution to looſe that <hi>and ſave himſelfe</hi> was of an antienter date then his deeds and words formerly made ſhew of,</q>
+               <p>A lye, He gave a Warrant to Cap<g ref="char:EOLhyphen"/>taine <hi>Birck</hi> and others, to rid the Caſtle of all ſuch. How to ſave him<g ref="char:EOLhyphen"/>ſelfe by keeping at the Line, and moſt uſually in the places of greateſt danger, and going to the Koy and marſh to appoint the guards, when the enemy played thick upon him from the Col<g ref="char:EOLhyphen"/>ledge-tower and the houſes open S. <hi>Auſtins</hi> backe, having a good marke to know him by, by the horſe that uſual<g ref="char:EOLhyphen"/>ly accompanied him, ſure hee might have been ſafer in the Ca<g ref="char:EOLhyphen"/>ſtle.</p>
+               <q>
+                  <p>but we are ſorry to heare this Relator (page 9.) make it ſo cleer a point that if the place had been Tenable, he could not have hoped for any reliefe in 6 or 8 weeks: what a diſcouragement will this be to that ſtout and faithfull Commander Col: <hi>Maſſy,</hi> and other Governours of Townes, who have not ſuch a powerfull ſolicitor with the Parliament as Col: <hi>Fiennes</hi> Father. We have ſeen 3 of the Governours reaſons why he could not keep the Caſtle.</p>
+                  <p>The firſt was, he had too many men to keepe the Caſtle, though too few to make good the Town.</p>
+                  <p>The ſecond was, a doubt leaſt the City ſhould fall upon him in his retreat thither.</p>
+                  <p>Third was, the weakenes of the Caſtle not fully fortified: And
+<pb n="14" facs="tcp:125239:8"/>now newly diſcovered by the enemies manner of ſtorming, and the execution his peeces of battery had lately done upon our Para<g ref="char:EOLhyphen"/>petts of earth; Together with the proviſion he had made of cloſe decked boates, and galleries; which proviſion is gainſaid by all men:</p>
+               </q>
+               <p>If it was not be<g ref="char:EOLhyphen"/>fore, ſure now it is a very cleere point, Col: <hi>Fien<g ref="char:EOLhyphen"/>nes</hi> was not much out in judging he could not have ſuccour in leſſe then ſix weeks, and it was beyond expecta<g ref="char:EOLhyphen"/>tion that <hi>Gloce<g ref="char:EOLhyphen"/>ſter</hi> had it ſo ſoene.</p>
+               <q>Let us now weigh the reſt of his arguments (page 9 and 10) upon that ſubject; firſt he wanted powder and match, he confeſ<g ref="char:EOLhyphen"/>ſeth he found 45 barrells, when he firſt undertook the charge of the Town, that he received 30 barrells from <hi>London,</hi> and 126 barrells from <hi>France,</hi> in all 201 barrells; beſides what powder was made in the Town, being about 6 <hi>or</hi> 7 <hi>barrells</hi> weekely for 30 <hi>weekes</hi> together,</q>
+               <p>A lye. by halfe the barrells, and well neere hal<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the weekes.</p>
+               <q>and what was and might have been gotten out of ſhips, ſhops and Merchants ſellars, a large quantity ſurely, had they been well ſearched; but to find Gunpowder had been to looſe a good excuſe; <hi>Quaere,</hi> how many of theſe were double barrells, and what became of the overplus (graunting that Sir <hi>William Waller</hi> had 60 barrells out of this ſaid ſum) Beſides when Chaptain <hi>Birck</hi> heard that the Caſtle would be rendred, he came to the chiefe Gunner, <hi>deſiring the Keyes of him,</hi> for <hi>that hee would defend the Caſtle himſelfe;</hi> the Gunner anſwered him, it was impoſſible, for that he had but 10 barrels of powder left, and afterwards in further talk, the ſaid Gunner confeſſed he had about 60 barrels, but <hi>alledged that Colonell</hi> Fiennes <hi>bid him ſay,</hi> that he had but 10 barrels left;</q>
+               <p>Sure neither was Captain <hi>Birck</hi> ſuch a foole, nor the Maſter gun<g ref="char:EOLhyphen"/>ner ſuch a lyer.</p>
+               <q>And for Match Colonell <hi>Fiennes might have made enough there.</hi>
+               </q>
+               <p>A brave Sould<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er to maintaine a Caſtle againſt a Royall Army, with Match that was to be made every day in the Caſtle.</p>
+               <q>Secondly, he ſaith he ſhould have loſt all his Horſe, being 300, and all the foot which would not be contained in the Caſtle; wherefore it was concluded by the Councell of Warre to treat and accept of conditions which might preſerve 300 horſe and 1500 foot to the Parliament: what Councell of War this was appeares not. The Committee and Gentlemen of the Country and moſt Officers deny, they were called to any ſuch Councell of War, or any ſuch concluſion agreed on to their knowledge (<hi>as I heve above ſaid</hi>)</q>
+               <p>As you have above lied.</p>
+               <q>And he might have <hi>ſent his Horſe away by night to</hi> Gloceſter, and drawn <hi>all</hi> his foot into the Caſtle, had he not ſo ſtuffed it with unſerviceable people;</q>
+               <p>Sir you were not the firſt inven<g ref="char:EOLhyphen"/>tour of that ex<g ref="char:EOLhyphen"/>pedient for the Horſe, and if you could have fag<g ref="char:EOLhyphen"/>gotted all the foot one upon another in the Caſtle, what ſhould have be<g ref="char:EOLhyphen"/>come of your friends in the Town between whom and you there was a joint proteſta<g ref="char:EOLhyphen"/>tion and oath of mutuall defence.</p>
+               <q>But it ſhould ſeeme by his actions ſubſequent to the concluſion of the Treaty, he tooke little care to preſerve the ſaid body of men for ſervice of the Parliament: for preſently upon the Articles agreed on; Firſt, <hi>Hee ſuffered his men to fall off from their Colours, Guards and Watches,</hi>
+               </q>
+               <p>A falſe lye. Col: <hi>Fiennes</hi> both by his commands, &amp; by all wayes and meanes endea<g ref="char:EOLhyphen"/>voured to keepe the Souldiers to their coulours and Guards,</p>
+               <q>whereby the Common ſouldiers of the Enemy entering the Towne, before the time appointed came for the defendants to march out, and
+<pb n="15" facs="tcp:125239:8"/>mingling with our Souldiers,
+gave the Enemy advantage in the mixture, to plunder houſes, ſtrip and rifle our Souldiers, diſmount our horſe, to allure, intice and inforce from the Parl: ſervice many of them; and ſo to breake and diſſolve almoſt all that body foot and horſe: who thereupon ſcattered and diſperſed themſelves about the Country into harveſt-work for their preſent reliefe; Nor could the Commanders on the Enemies part remedy this evill which the Governours own folly had drawn upon him; and this is a bet<g ref="char:EOLhyphen"/>ter juſtification of the two Armies, then that wherewith the Go<g ref="char:EOLhyphen"/>vernour by way of compliance tickleth them, (in his 11 page)</q>
+               <p>All theſe parti<g ref="char:EOLhyphen"/>culars ſhall be cleered at a Cou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>cell of War, and for the point of powder, mentio<g ref="char:EOLhyphen"/>ned in the prece<g ref="char:EOLhyphen"/>dent page, that had not Col: <hi>Fi<g ref="char:EOLhyphen"/>ennes</hi> got ſome from beyond-ſeas, and other<g ref="char:EOLhyphen"/>wiſe by his in<g ref="char:EOLhyphen"/>deavours, the Weſt had been loſt long ſince, and the 10 barrells he helped <hi>Glocester</hi> with ſaved it.</p>
+               <q>Nor did the Governour beate his Drum <hi>or call his foot Souldiers again to the Colours when he went out of Town, whereby they might march away with him in one intire body;</hi> and bee kept together for the ſervice of their Countrey; Secondly, <hi>Preſently upon the Articles agreed upon, the Governour ſet all the priſoners in the Town and Caſtle, at liberty,</hi>
+               </q>
+               <p>2 Groſſe lyes. Thoſe that advi<g ref="char:EOLhyphen"/>ſed this, thought neither Towne or Caſtle very ſafe and tenable.</p>
+               <q>theſe forthwith grew inſolent and fell to plunder both Town and Caſtle, before the enemy entered to take orderly poſſeſſion of them; theſe priſoners were many in num<g ref="char:EOLhyphen"/>ber, and divers of them men of good quality taken by Sir <hi>William Waller;</hi> the Governour often complaining he was made Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Wallers</hi> Goale-keeper,</q>
+               <p>A baſe &amp; grou<g ref="char:cmbAbbrStroke">̄</g>d<g ref="char:EOLhyphen"/>leſſe ſlander up<g ref="char:EOLhyphen"/>on a Nobleman. He remembers no ſuch anſwer, but conceives it a juſtifiable an<g ref="char:EOLhyphen"/>ſwer if he had ſaid it.</p>
+               <q>and repining at the charge of keeping them, he was often adviſed <hi>to remove them to a place of more ſafety,</hi>
+where they might be kept as pledges for our friends in cap<g ref="char:EOLhyphen"/>tivity: <hi>London</hi> and the Lord <hi>Sayes</hi> Iſle of <hi>Lundy</hi> were propounded. But for the firſt, the voyage was too chargeable, and for the laſt <hi>(it is ſince conceived) the Governour was unwilling to ſend any company to that place, whereby the miſteries of that Iſland, might be diſcovered; and obſervation made what was carried in and out there:</hi>
+               </q>
+               <p>A malicious lye. He knowes that Col: <hi>Fiennes</hi> did what he could to ſuppreſſe ſuch diſorders which were occaſioned by the conniva<g ref="char:cmbAbbrStroke">̄</g>ce of other Com<g ref="char:EOLhyphen"/>manders.</p>
+               <q>and when Sir <hi>William Waller</hi> moved Col: <hi>Fiennes</hi> to ſend away the ſaid priſoners by Sea <hi>before the enemy came before the Town,</hi> he anſwered <hi>he would not, for that he would keep them to make his own conditions the better;</hi>
+               </q>
+               <p>For the Priſo<g ref="char:EOLhyphen"/>ners, Col: <hi>Fiennes</hi> wiſhed Captaine <hi>Birck,</hi> to ſee if there could be meanes found to ſend them away by ſea, but he could not, and he deſired alſo Sir <hi>Arthur Ha<g ref="char:EOLhyphen"/>zelrigg</hi> to take ſome of them with him, but he would have none of them.</p>
+               <q>his own Councells were al<g ref="char:EOLhyphen"/>wayes the beſt, I meane for his own ends; to make good which, the Councell of War was well furniſhed with ſuffragan Captains, purpoſely made to vote for him. Much more might be ſaid upon this Subject, <hi>especially for abuſes done in Churches,</hi> &amp;c. where<g ref="char:EOLhyphen"/>by the love of the Town and Country was much alienated. But enough hath been ſaid of a bad matter, let us reſort to God for mer<g ref="char:EOLhyphen"/>cy, and to man for juſtice to be done in a fitting way, (that is openly and by man unintereſſed,) leſt for want of due rewards and due pu<g ref="char:EOLhyphen"/>niſhments
+<pb n="16" facs="tcp:125239:9"/>(the two Poles upon which the frame of Government turnes) the reforming part of the Common-wealth, become <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> corrupt as the part to be reformed, which God of his mercy forbid.</q>
+               <p>If lyers and ſlan<g ref="char:EOLhyphen"/>derers be not pu<g ref="char:EOLhyphen"/>niſhed and Pillo<g ref="char:EOLhyphen"/>red, no men of honour will be able to live and doe ſervice, as Col: <hi>Fiennes</hi> doth not doubt to make it appeare at a Councell of Warre, that he made as good a defence of that place, as any hath been made of a<g ref="char:EOLhyphen"/>ny place ſince this war, though not ſo long nor ſo ſucceſſefull, through other mens faults and the weake con<g ref="char:EOLhyphen"/>dition of the place.</p>
+               <q>
+                  <p>THere hath lately come to my view a Letter written by Col: <hi>Nath: Fiennes</hi> to my L. Generall, with no date to it, wherein (among<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> other matters already confuted in the anſwer to his relation) he te<gap reason="illegible" resp="#UOM" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap> you he armed 3000 foot, and 300 horſe, and paid constantly 2000 foot and a Regiment of horſe for 4 of 5 moneths together; This we deny, Col. <hi>Pophams</hi> Regiment of foot being armed and paid by the Country, and where he will find 2000 foot, thoſe excepted, we know not, unleſſe they lay hid in Prince <hi>Ruperts</hi> imaginary cloſe decked boates: he further ſaith, he was alwayes ready to furniſh Sir <hi>William Waller</hi> with armes, money, <hi>&amp;c.</hi> It is denied for both, especially for money, the money Sir Wi<hi>l<g ref="char:EOLhyphen"/>liam Waller</hi> had from <hi>Briſtoll</hi> being taken up upon the private ſecuri<g ref="char:EOLhyphen"/>ty of divers Genelemen, Deputy-Lieutenants, and Committees of Par<g ref="char:EOLhyphen"/>liament and others, Col: <hi>Fiennes</hi> alwayes repining thereat, and com<g ref="char:EOLhyphen"/>plaining they would draw dry the spring and ſtarve the Garriſon in the Town by thoſe courſes; this letter ſeemes to be atteſted under the hands of divers men, ſome whereof deny they ever ſubſcribed it.</p>
+               </q>
+               <p>Sure they will not deny their hands when they ſee them, and Col. <hi>Fiennes</hi> will bring better proof of all that you deny, even of that which he ſaid concerning cloſe decked boates, then you can prove Major <hi>Langriſhes</hi> cow<g ref="char:EOLhyphen"/>ardize at <hi>Muncto<g ref="char:cmbAbbrStroke">̄</g> Forly</hi> when he was 10 miles off.</p>
+               <floatingText xml:lang="eng" type="documents">
+                  <body>
+                     <head>The true Copies of a Certificate under Col. <hi>Fiennes</hi> own hand, dated <hi>Iuly</hi> 17<g ref="char:punc">▪</g> 1643. As alſo of an Order of a Counſell of War held in <hi>Briſtol</hi> the ſame day, expreſſing the true cauſes why Sir <hi>W. Waller</hi> left the City of <hi>Briſtol.</hi>
+                     </head>
+                     <div type="certificate">
+                        <head>THE CERTIFICATE.</head>
+                        <p>
+                           <hi>I doe conceive that Sir</hi> W. Waller <hi>having only horſe, they would be of little uſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> unto us for the defence of this City, and may be rather a burthen unto us in the con<g ref="char:EOLhyphen"/>ſumption of our proviſions, and therefore I doe approve of Sir</hi> Williams <hi>reſolution to march out of the Town with them, and to diſpoſe of them as he ſhall think moſt advantagious to the Cauſe.</hi>
+                        </p>
+                        <closer>
+                           <dateline>Briſtol, <date>July 17, 1643.</date>
+                           </dateline>
+                           <signed>Nath: Fiennes.</signed>
+                        </closer>
+                     </div>
+                     <div type="order">
+                        <head>THE ORDER.</head>
+                        <p>It was Ordered at a Councel of War held in Briſtol, July 17, 1643.</p>
+                        <p>
+                           <hi>That (according to the importunity of the Governour and his Officers) Sir</hi> Wil: Wallers <hi>departure from</hi> Briſtol, <hi>will be of farre greater conſequence for the advancing of this preſent ſervice, then his remaining there. And after debate, it was concluded moſt convenient, That Sir</hi> Will: Waller <hi>ſpeedily march towards His Excellencie the Earle of</hi> Eſſex, <hi>or to</hi> London.</p>
+                        <closer>
+                           <signed>
+                              <list>
+                                 <item>Edvvard Hungerſord.</item>
+                                 <item>Alexander Popham.</item>
+                                 <item>James Keir.</item>
+                                 <item>Francis Dovvet.</item>
+                                 <item>Arthur Haſelrig.</item>
+                                 <item>William Carr.</item>
+                                 <item>Edward Cook.</item>
+                                 <item>Jonas Van-druſch. </item>
+                              </list>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+               <p>I know not what he meanes by printing that cer<g ref="char:EOLhyphen"/>tificate, and that Order of S <hi>Wil: Wallers</hi> Councel. of War (whereof I deny the paren<g ref="char:EOLhyphen"/>theſis to be true to my beſt re<g ref="char:EOLhyphen"/>membrance) and for the Certifi<g ref="char:EOLhyphen"/>cate, I am ſtill of the ſame judge<g ref="char:EOLhyphen"/>ment under the favour of this great Souldier, eſpecially if Sir <hi>Wil: Wallers</hi> words were true concerning his horſe, that they were ſuch raſcalls as he could never rule them.</p>
+            </div>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
